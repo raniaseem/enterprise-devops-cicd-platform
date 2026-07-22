@@ -2,13 +2,28 @@
 
 ## Project Overview
 
-Brief description of the project and business objective.
 
+This project demonstrates the implementation of an enterprise-grade DevOps platform on AWS using modern cloud-native technologies and automation practices.
+
+The platform automates infrastructure provisioning, application deployment, continuous integration, continuous delivery, GitOps workflows, and monitoring. Infrastructure is provisioned using Terraform, applications are containerized with Docker, deployed on Amazon EKS, and managed through GitOps using ArgoCD. End-to-end CI/CD automation is implemented using GitHub Actions, while Prometheus and Grafana provide monitoring and observability.
+
+### Business Objective
+
+The primary objective of this project is to enable organizations to deploy applications faster, improve deployment reliability, reduce manual intervention, and maintain high availability through automation and cloud-native DevOps practices.
+
+Key business benefits include:
+
+- Faster software delivery through automated CI/CD pipelines.
+- Consistent infrastructure provisioning using Infrastructure as Code (Terraform).
+- Improved deployment reliability using GitOps and Kubernetes.
+- Enhanced monitoring and observability with Prometheus and Grafana.
+- Reduced operational overhead through automation.
+- Scalable and highly available application deployments on AWS.
 ---
 
 ## Architecture Diagram
 
-![Architecture](screenshots/architecture-diagram.png)
+<img width="455" height="583" alt="image" src="https://github.com/user-attachments/assets/ec8d0e26-c551-4e26-8aba-bb2ebc7a9ee0" />
 
 ---
 
@@ -280,3 +295,5 @@ Cloud & DevOps Engineer
 LinkedIn: https://www.linkedin.com/in/rani-aseem-3b3611232
 
 GitHub: https://github.com/raniaseem
+
+I am working on it.
